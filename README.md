@@ -1,0 +1,2 @@
+# alrarm_beacon_with_accelerometer
+Охранный радиомаяк с акселерометром
