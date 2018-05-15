@@ -5,6 +5,8 @@
 ![](GRAPHICS/photo_0.jpg)
 ![](GRAPHICS/photo_1.jpg)
 
+Видео: https://www.youtube.com/watch?v=IjiarS18jRc
+
 ***
 
 **Радиомаяк предназначен для:**
